@@ -1,0 +1,5 @@
+# > Fox+ (HK|TW|SG)
+USER-AGENT,FOXPlus*,Fox+
+DOMAIN-SUFFIX,akamaized.net, Fox+
+DOMAIN-SUFFIX,foxplus.com, Fox+
+DOMAIN-SUFFIX,theplatform.com, Fox+
