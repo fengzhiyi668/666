@@ -1,4 +1,4 @@
 # > nba
-USER-AGENT,nba*,nba
-DOMAIN-SUFFIX,nba.com,nba
-DOMAIN-SUFFIX,watch.nba.con,nba
+USER-AGENT,nba*,nba,
+HOST,nba.com,nba
+HOST,watch.nba.con,nba
