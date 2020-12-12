@@ -15,6 +15,7 @@ DOMAIN,neulionnbaovod-a.akamaihd.net,NBA
 DOMAIN,psapi.neulion.com,NBA
 DOMAIN,nbapcm.neulion.com,NBA
 DOMAIN,cdn3.iconfinder.com,NBA
+DOMAIN,ak-static.cms.nba.com,NBA
 DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv,NBA
 DOMAIN-SUFFIX,nbaapi.neulion.com,NBA
 DOMAIN-SUFFIX,stats.nba.com,NBA
@@ -30,4 +31,4 @@ DOMAIN-SUFFIX,neulionnbaovod-a.akamaihd.net,NBA
 DOMAIN-SUFFIX,psapi.neulion.com,NBA
 DOMAIN-SUFFIX,nbapcm.neulion.com,NBA
 DOMAIN-SUFFIX,cdn3.iconfinder.com,NBA
-
+DOMAIN-SUFFIX,ak-static.cms.nba.com,NBA
