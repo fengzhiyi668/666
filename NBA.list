@@ -1,4 +1,33 @@
-# > nba
-USER-AGENT,nba*,nba
-HOST,nba.com,nba
-HOST,watch.nba.con,nba
+# > NBA
+USER-AGENT,NBA*,NBA
+DOMAIN,nba-cdn.cloud.easelive.tv,NBA
+DOMAIN,nbaapi.neulion.com,NBA
+DOMAIN,stats.nba.com,NBA
+DOMAIN,nlnbamdnyc-a.akamaihd.net,NBA
+DOMAIN,identity.nba.com,NBA
+DOMAIN,content-api-prod.nba.com,NBA
+DOMAIN,watchnba.cdnfastly.endeavorstreaming.net,NBA
+DOMAIN,nlnbaqos.neulion.com,NBA
+DOMAIN,cdn.nba.com,NBA
+DOMAIN,watch.nba.com,NBA
+DOMAIN,geolocation.onetrust.com,NBA
+DOMAIN,neulionnbaovod-a.akamaihd.net,NBA
+DOMAIN,psapi.neulion.com,NBA
+DOMAIN,nbapcm.neulion.com,NBA
+DOMAIN,cdn3.iconfinder.com,NBA
+DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv,NBA
+DOMAIN-SUFFIX,nbaapi.neulion.com,NBA
+DOMAIN-SUFFIX,stats.nba.com,NBA
+DOMAIN-SUFFIX,nlnbamdnyc-a.akamaihd.net,NBA
+DOMAIN-SUFFIX,identity.nba.com,NBA
+DOMAIN-SUFFIX,content-api-prod.nba.com,NBA
+DOMAIN-SUFFIX,watchnba.cdnfastly.endeavorstreaming.net,NBA
+DOMAIN-SUFFIX,nlnbaqos.neulion.com,NBA
+DOMAIN-SUFFIX,cdn.nba.com,NBA
+DOMAIN-SUFFIX,watch.nba.com,NBA
+DOMAIN-SUFFIX,geolocation.onetrust.com,NBA
+DOMAIN-SUFFIX,neulionnbaovod-a.akamaihd.net,NBA
+DOMAIN-SUFFIX,psapi.neulion.com,NBA
+DOMAIN-SUFFIX,nbapcm.neulion.com,NBA
+DOMAIN-SUFFIX,cdn3.iconfinder.com,NBA
+
