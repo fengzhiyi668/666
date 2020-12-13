@@ -22,3 +22,14 @@ DOMAIN,nba.cloud.easelive.tv,NBA
 DOMAIN,tracker.easelive.tv,NBA
 DOMAIN,nbanlds19vod.akamaized.net,NBA
 DOMAIN-SUFFIX,akamaized.net,NBA
+DOMAIN-SUFFIX,akamai.net,NBA
+DOMAIN,akamai.net,NBA
+DOMAIN-SUFFIX,akamaiedge.net,NBA
+DOMAIN,akamaiedge.net,NBA
+DOMAIN-KEYWORD,akamai,NBA
+DOMAIN,nbaapi.neulion.com.akadns.net,NBA
+DOMAIN-SUFFIX,nbaapi.neulion.com.akadns.net,NBA
+DOMAIN,nbaprop.sc.omtrdc.net,NBA
+DOMAIN,api.ipify.org,NBA
+DOMAIN-SUFFIX,api.ipify.org,NBA
+DOMAIN,cdn-qa.nba.com,NBA
