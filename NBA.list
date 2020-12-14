@@ -34,3 +34,4 @@ DOMAIN,api.ipify.org,NBA
 DOMAIN-SUFFIX,api.ipify.org,NBA
 DOMAIN,cdn-qa.nba.com,NBA
 DOMAIN,nba-api-cdn.opin.media,NBA
+DOMAIN,davinci-qa.nba.com,NBA
