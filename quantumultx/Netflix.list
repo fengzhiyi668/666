@@ -18,10 +18,10 @@ DOMAIN-SUFFIX,nflximg.com,Netflix
 DOMAIN-SUFFIX,nflximg.net,Netflix
 DOMAIN-SUFFIX,nflxso.net,Netflix
 DOMAIN-SUFFIX,nflxvideo.net,Netflix
-IP-CIDR,103.87.204.0/22,no-resolve,Netflix
-IP-CIDR,108.175.0.0/16,no-resolve,Netflix
-IP-CIDR,108.175.32.0/20,no-resolve,Netflix
-IP-CIDR,185.2.0.0/16,no-resolve,Netflix
+IP-CIDR,103.87.204.0/22,Netflix
+IP-CIDR,108.175.0.0/16,Netflix
+IP-CIDR,108.175.32.0/20,Netflix
+IP-CIDR,185.2.0.0/16,Netflix
 IP-CIDR,185.9.0.0/16,no-resolve,Netflix
 IP-CIDR,192.173.0.0/16,no-resolve,Netflix
 IP-CIDR,198.38.0.0/16,no-resolve,Netflix
