@@ -1,0 +1,4 @@
+# > emby
+USER-AGENT,emby*,emby
+DOMAIN,emby.maying.club,emby
+IP-CIDR,104.238.220.90/32,emby
