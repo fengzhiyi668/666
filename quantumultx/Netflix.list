@@ -1,6 +1,6 @@
 # > Netflix
 USER-AGENT,Argo*,Netflix
-DOMAIN-KEYWORD,netflix
+DOMAIN-KEYWORD,netflix,Netflix
 DOMAIN,netflix.com.edgesuite.net,Netflix
 DOMAIN-SUFFIX,netflix.com,Netflix
 DOMAIN-SUFFIX,netflix.com.edgesuite.net,Netflix
