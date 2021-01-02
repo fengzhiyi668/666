@@ -1,5 +1,6 @@
 # > Netflix
 USER-AGENT,Argo*,Netflix
+DOMAIN,ios.prod.ftl.netflix.com,Netflix
 DOMAIN,netflix.com.edgesuite.net,Netflix
 DOMAIN-SUFFIX,netflix.com,Netflix
 DOMAIN-SUFFIX,netflix.com.edgesuite.net,Netflix
@@ -18,7 +19,6 @@ DOMAIN-SUFFIX,nflximg.com,Netflix
 DOMAIN-SUFFIX,nflximg.net,Netflix
 DOMAIN-SUFFIX,nflxso.net,Netflix
 DOMAIN-SUFFIX,nflxvideo.net,Netflix
-DOMAIN,ios.prod.ftl.netflix.com,Netflix
 IP-CIDR,103.87.204.0/22,Netflix
 IP-CIDR,108.175.0.0/16,Netflix
 IP-CIDR,108.175.32.0/20,Netflix
