@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,us-west-2.elb.amazonaws.com
+DOMAIN-SUFFIX,2.elb.amazonaws.com
 DOMAIN-KEYWORD,dualstack
 DOMAIN-KEYWORD,amazonaws
 IP-CIDR,3.0.0.0/15,no-resolve
