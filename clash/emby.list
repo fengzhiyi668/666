@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,clients.google.com
 DOMAIN-KEYWORD,androidtvlaunch
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,android.clients.google.com
+DOMAIN,clients3.google.com
