@@ -6,3 +6,5 @@ DOMAIN,subserver.maying.io
 DOMAIN,androidtvlauncherxfe-pa.googleapis.com
 DOMAIN-SUFFIX,clients.google.com
 DOMAIN-KEYWORD,androidtvlaunch
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
