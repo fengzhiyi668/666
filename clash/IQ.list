@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,intl.iqiyi.com
 DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,inter.ptqy.gitv.tv
+# (流媒体内容，非必须，省流量可注释)
+DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com
+DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv
 // 视频播放版权地区验证
 DOMAIN,intel-cache.video.iqiyi.com
 DOMAIN,intel-cache.m.iqiyi.com
