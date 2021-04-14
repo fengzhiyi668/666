@@ -3,6 +3,7 @@ USER-AGENT,emby*
 DOMAIN,emby.maying.club
 IP-CIDR,104.238.220.90/32
 DOMAIN,subserver.maying.io
+# > GTV
 DOMAIN,androidtvlauncherxfe-pa.googleapis.com
 DOMAIN-SUFFIX,clients.google.com
 DOMAIN-KEYWORD,androidtvlaunch
