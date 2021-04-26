@@ -1,0 +1,14 @@
+# > Google TV
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+DOMAIN-SUFFIX,clients.google.com
+DOMAIN-KEYWORD,androidtvlaunch
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,android.clients.google.com
+DOMAIN,clients3.google.com
+DOMAIN,clients1.google.com
+DOMAIN,clients2.google.com
+DOMAIN,clients4.google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,clients.google
