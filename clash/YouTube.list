@@ -4,5 +4,5 @@ USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
-# > 安卓TV谷歌商店应用下载更新
+// 安卓TV谷歌商店应用下载更新
 DOMAIN-SUFFIX,gvt1.com
