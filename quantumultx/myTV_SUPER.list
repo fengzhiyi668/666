@@ -1,0 +1,7 @@
+# > myTV_SUPER
+USER-AGENT,mytv*,myTV_SUPER
+DOMAIN-SUFFIX,mytvsuper.com,myTV_SUPER
+DOMAIN-SUFFIX,tvb.com,myTV_SUPER
+DOMAIN-SUFFIX,youboranqs01.com,myTV_SUPER
+DOMAIN,psg.cdn.hgc.com.hk,myTV_SUPER
+DOMAIN-SUFFIX,hgc.com.hk,myTV_SUPER
