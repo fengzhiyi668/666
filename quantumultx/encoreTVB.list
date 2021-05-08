@@ -1,0 +1,21 @@
+# > encoreTVB
+USER-AGENT,encoreTVB*,encoreTVB
+DOMAIN-SUFFIX,encoretvb.com,encoreTVB
+DOMAIN,edge.api.brightcove.com,encoreTVB
+DOMAIN,bcbolt446c5271-a.akamaihd.net,encoreTVB
+DOMAIN-SUFFIX,CLOUDFUNCTIONS.NET,encoreTVB
+DOMAIN-SUFFIX,BOLTDNS.NET,encoreTVB
+DOMAIN-SUFFIX,METRICS.BRIGHTCOVE.COM,encoreTVB
+DOMAIN-SUFFIX,BRIGHTCOVE.COM,encoreTVB
+DOMAIN-SUFFIX,CDN77.ORG,encoreTVB
+DOMAIN-SUFFIX,rsc.cdn77.org,encoreTVB
+DOMAIN-SUFFIX,AMAZONAWS.COM,encoreTVB
+DOMAIN-SUFFIX,PUSHWOOSH.COM,encoreTVB
+DOMAIN-SUFFIX,mopub.com,encoreTVB
+DOMAIN-SUFFIX,jampp.com,encoreTVB
+DOMAIN-SUFFIX,mchncdn.com,encoreTVB
+DOMAIN-SUFFIX,mchnad.com,encoreTVB
+DOMAIN-SUFFIX,smadex.com,encoreTVB
+DOMAIN,manifest.prod.boltdns.net,encoreTVB
+DOMAIN-SUFFIX,boltdns.net,encoreTVB
+DOMAIN-SUFFIX,prod.boltdns.net,encoreTVB
