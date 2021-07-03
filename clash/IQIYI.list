@@ -228,3 +228,17 @@ IP-CIDR,129.227.49.240/29,no-resolve
 IP-CIDR,129.227.49.248/30,no-resolve
 IP-CIDR,129.227.49.252/31,no-resolve
 IP-CIDR,129.227.49.254/32,no-resolve
+IP-CIDR,34.98.74.1/32,no-resolve
+IP-CIDR,34.98.74.2/31,no-resolve
+IP-CIDR,34.98.74.4/30,no-resolve
+IP-CIDR,34.98.74.8/29,no-resolve
+IP-CIDR,34.98.74.16/28,no-resolve
+IP-CIDR,34.98.74.32/27,no-resolve
+IP-CIDR,34.98.74.64/26,no-resolve
+IP-CIDR,34.98.74.128/26,no-resolve
+IP-CIDR,34.98.74.192/27,no-resolve
+IP-CIDR,34.98.74.224/28,no-resolve
+IP-CIDR,34.98.74.240/29,no-resolve
+IP-CIDR,34.98.74.248/30,no-resolve
+IP-CIDR,34.98.74.252/31,no-resolve
+IP-CIDR,34.98.74.254/32,no-resolve
