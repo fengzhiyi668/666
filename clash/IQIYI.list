@@ -13,10 +13,10 @@ IP-CIDR,101.227.0.0/16,no-resolve
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,119.176.0.0/12,no-resolve
 IP-CIDR,172.217.160.98/32,no-resolve
-IP-CIDR,216.58.200.42:443/32,no-resolve
-IP-CIDR,172.217.24.10:443/32,no-resolve
-IP-CIDR,20.44.229.112:443/32,no-resolve
-IP-CIDR,20.198.162.78:443/32,no-resolve
-IP-CIDR,35.186.224.25:443/32,no-resolve
-IP-CIDR,104.86.5.150:443/32,no-resolve
-IP-CIDR,216.58.200.46:443/32,no-resolve
+IP-CIDR,216.58.200.42/32,no-resolve
+IP-CIDR,172.217.24.10/32,no-resolve
+IP-CIDR,20.44.229.112/32,no-resolve
+IP-CIDR,20.198.162.78/32,no-resolve
+IP-CIDR,35.186.224.25/32,no-resolve
+IP-CIDR,104.86.5.150/32,no-resolve
+IP-CIDR,216.58.200.46/32,no-resolve
