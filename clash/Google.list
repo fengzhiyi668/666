@@ -105,6 +105,30 @@ IP-CIDR,184.85.119.16/28,no-resolve
 IP-CIDR,184.85.119.32/27,no-resolve
 IP-CIDR,184.85.119.64/26,no-resolve
 IP-CIDR,184.85.119.128/25,no-resolve
+IP-CIDR,35.212.247.1/32,no-resolve
+IP-CIDR,35.212.247.2/31,no-resolve
+IP-CIDR,35.212.247.4/30,no-resolve
+IP-CIDR,35.212.247.8/29,no-resolve
+IP-CIDR,35.212.247.16/28,no-resolve
+IP-CIDR,35.212.247.32/27,no-resolve
+IP-CIDR,35.212.247.64/26,no-resolve
+IP-CIDR,35.212.247.128/25,no-resolve
+IP-CIDR,74.125.204.1/32,no-resolve
+IP-CIDR,74.125.204.2/31,no-resolve
+IP-CIDR,74.125.204.4/30,no-resolve
+IP-CIDR,74.125.204.8/29,no-resolve
+IP-CIDR,74.125.204.16/28,no-resolve
+IP-CIDR,74.125.204.32/27,no-resolve
+IP-CIDR,74.125.204.64/26,no-resolve
+IP-CIDR,74.125.204.128/25,no-resolve
+IP-CIDR,140.82.114.1/32,no-resolve
+IP-CIDR,140.82.114.2/31,no-resolve
+IP-CIDR,140.82.114.4/30,no-resolve
+IP-CIDR,140.82.114.8/29,no-resolve
+IP-CIDR,140.82.114.16/28,no-resolve
+IP-CIDR,140.82.114.32/27,no-resolve
+IP-CIDR,140.82.114.64/26,no-resolve
+IP-CIDR,140.82.114.128/25,no-resolve
 # > Google Drive
 PROCESS-NAME,Backup and Sync
 USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
