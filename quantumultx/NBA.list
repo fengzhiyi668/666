@@ -37,3 +37,11 @@ DOMAIN,nba-api-cdn.opin.media,NBA
 DOMAIN,davinci-qa.nba.com,NBA
 DOMAIN,lion-nba-msl.akamaized.net,NBA
 DOMAIN,ilppp.nba.com,NBA
+DOMAIN-SUFFIX,nba.com,NBA
+DOMAIN-SUFFIX,branch.io,NBA
+DOMAIN-SUFFIX,app.link,NBA
+DOMAIN-SUFFIX,affec.tv,NBA
+DOMAIN-SUFFIX,cookielaw.org,NBA
+DOMAIN-SUFFIX,permutive.com,NBA
+DOMAIN-SUFFIX,adobedtm.com,NBA
+DOMAIN-SUFFIX,amplitude.com,NBA
