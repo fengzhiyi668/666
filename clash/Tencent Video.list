@@ -1,4 +1,7 @@
 # > Tencent Video
+DOMAIN-SUFFIX,gaoqing.la
+DOMAIN,gaoqing.la
+DOMAIN-KEYWORD,gaoqing
 DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN,video.qq.com
 DOMAIN,vip.video.qq.com
@@ -31,9 +34,6 @@ DOMAIN-SUFFIX,filters.adtidy.org
 DOMAIN,filters.adtidy.org
 DOMAIN-KEYWORD,adtidy
 DOMAIN-SUFFIX,net.tw
-DOMAIN-SUFFIX,gaoqing.la
-DOMAIN,gaoqing.la
-DOMAIN-KEYWORD,gaoqing
 DOMAIN-SUFFIX,yfp2p.net
 DOMAIN-SUFFIX,dekeitv.com
 IP-CIDR,49.7.31.130/22,no-resolve
