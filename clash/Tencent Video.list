@@ -44,3 +44,5 @@ IP-CIDR,36.99.30.173/22,no-resolve
 IP-CIDR,203.205.253.150/22,no-resolve
 IP-CIDR,203.205.219.52/22,no-resolve
 IP-CIDR,203.205.255.171/22,no-resolve
+DOMAIN,gaoqing.la
+DOMAIN-SUFFIX,gaoqing.la
