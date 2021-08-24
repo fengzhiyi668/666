@@ -1,6 +1,6 @@
 # > Tencent Video
-#DOMAIN-SUFFIX,gaoqing.la
-#DOMAIN,gaoqing.la
+DOMAIN-SUFFIX,gaoqing.la
+DOMAIN,gaoqing.la
 #DOMAIN-KEYWORD,gaoqing
 DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN,video.qq.com
