@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,conviva.com
 DOMAIN-SUFFIX,disney.demdex.net
+DOMAIN,disney.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,us-east-1.amazonaws.com
 DOMAIN,disney.my.sentry.io
