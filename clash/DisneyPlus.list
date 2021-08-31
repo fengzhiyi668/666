@@ -16,3 +16,5 @@ DOMAIN,disney.my.sentry.io
 DOMAIN-KEYWORD,Disney
 IP-CIDR,5.28.194.150/32,no-resolve
 DOMAIN-SUFFIX,disneystreaming.com
+DOMAIN,disney.api.edge.bamgrid.com
+DOMAIN,disney.connections.edge.bamgrid.com
