@@ -13,7 +13,7 @@ DOMAIN,disney.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,us-east-1.amazonaws.com
 DOMAIN,disney.my.sentry.io
-DOMAIN-KEYWORD,Disney
+##DOMAIN-KEYWORD,Disney
 IP-CIDR,5.28.194.150/32,no-resolve
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN,disney.api.edge.bamgrid.com
