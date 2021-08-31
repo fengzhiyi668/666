@@ -8,6 +8,7 @@ DOMAIN,cdn.registerdisney.go.com,Disney+
 DOMAIN-SUFFIX,bamgrid.com,Disney+
 DOMAIN-SUFFIX,braze.com,Disney+
 DOMAIN-SUFFIX,conviva.com,Disney+
+DOMAIN,disney.playback.edge.bamgrid.com,Disney+
 DOMAIN-SUFFIX,disney.demdex.net,Disney+
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney+
 DOMAIN-SUFFIX,us-east-1.amazonaws.com,Disney+
