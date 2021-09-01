@@ -13,6 +13,6 @@ DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,disney.demdex.net
 DOMAIN,disney.my.sentry.io
-IP-CIDR,5.28.194.150/32
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,conviva.com
+IP-CIDR,5.28.194.150/32,no-resolve
