@@ -1,4 +1,4 @@
 # > nba
 DOMAIN,watch.nba.com,nba
 DOMAIN,identity.nba.com,nba
-##DOMAIN-SUFFIX,neulion.com,nba
+DOMAIN-SUFFIX,neulion.com,nba
