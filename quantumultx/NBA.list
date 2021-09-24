@@ -1,19 +1,19 @@
 # > NBA
 USER-AGENT,NBA*,NBA
 DOMAIN,nba-cdn.cloud.easelive.tv,NBA
-DOMAIN,nbaapi.neulion.com,NBA
+#DOMAIN,nbaapi.neulion.com,NBA
 DOMAIN,stats.nba.com,NBA
 DOMAIN,nlnbamdnyc-a.akamaihd.net,NBA
 ##DOMAIN,identity.nba.com,NBA
 DOMAIN,content-api-prod.nba.com,NBA
 DOMAIN,watchnba.cdnfastly.endeavorstreaming.net,NBA
-DOMAIN,nlnbaqos.neulion.com,NBA
+##DOMAIN,nlnbaqos.neulion.com,NBA
 DOMAIN,cdn.nba.com,NBA
 ##DOMAIN,watch.nba.com,NBA
 DOMAIN,geolocation.onetrust.com,NBA
 DOMAIN,neulionnbaovod-a.akamaihd.net,NBA
-DOMAIN,psapi.neulion.com,NBA
-DOMAIN,nbapcm.neulion.com,NBA
+##DOMAIN,psapi.neulion.com,NBA
+##DOMAIN,nbapcm.neulion.com,NBA
 DOMAIN,cdn3.iconfinder.com,NBA
 DOMAIN,ak-static.cms.nba.com,NBA
 DOMAIN,neuclnbavodns.akamaized.net,NBA
@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,akamaiedge.net,NBA
 DOMAIN,akamaiedge.net,NBA
 DOMAIN-KEYWORD,akamai,NBA
 DOMAIN,nbaapi.neulion.com.akadns.net,NBA
-DOMAIN-SUFFIX,nbaapi.neulion.com.akadns.net,NBA
+##DOMAIN-SUFFIX,nbaapi.neulion.com.akadns.net,NBA
 DOMAIN,nbaprop.sc.omtrdc.net,NBA
 DOMAIN,api.ipify.org,NBA
 DOMAIN-SUFFIX,api.ipify.org,NBA
