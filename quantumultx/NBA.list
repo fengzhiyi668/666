@@ -1,7 +1,7 @@
 # > NBA
 USER-AGENT,NBA*,NBA
 DOMAIN,nba-cdn.cloud.easelive.tv,NBA
-#DOMAIN,nbaapi.neulion.com,NBA
+##DOMAIN,nbaapi.neulion.com,NBA
 DOMAIN,stats.nba.com,NBA
 DOMAIN,nlnbamdnyc-a.akamaihd.net,NBA
 ##DOMAIN,identity.nba.com,NBA
