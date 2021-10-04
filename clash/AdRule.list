@@ -8649,3 +8649,5 @@ IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 #知乎
 IP-CIDR,188.89.204.198/32,no-resolve
+DOMAIN-KEYWORD,fra0
+IP-CIDR,45.57.74.0/23,no-resolve
