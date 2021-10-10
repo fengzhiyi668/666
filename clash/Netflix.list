@@ -851,4 +851,11 @@ IP-CIDR,203.75.84.16/28,no-resolve
 IP-CIDR,203.75.84.32/27,no-resolve
 IP-CIDR,203.75.84.64/26,no-resolve
 IP-CIDR,203.75.84.128/25,no-resolve
-
+IP-CIDR,203.116.210.1/32,no-resolve
+IP-CIDR,203.116.210.2/31,no-resolve
+IP-CIDR,203.116.210.4/30,no-resolve
+IP-CIDR,203.116.210.8/29,no-resolve
+IP-CIDR,203.116.210.16/28,no-resolve
+IP-CIDR,203.116.210.32/27,no-resolve
+IP-CIDR,203.116.210.64/26,no-resolve
+IP-CIDR,203.116.210.128/25,no-resolve
