@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,2.elb.amazonaws.com
 DOMAIN-KEYWORD,dualstack
-DOMAIN-KEYWORD,amazonaws
+##DOMAIN-KEYWORD,amazonaws
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.5.0.0/18,no-resolve
 IP-CIDR,3.5.64.0/21,no-resolve
