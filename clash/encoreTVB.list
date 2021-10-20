@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,BOLTDNS.NET
 DOMAIN-SUFFIX,METRICS.BRIGHTCOVE.COM
 DOMAIN-SUFFIX,BRIGHTCOVE.COM
 DOMAIN-SUFFIX,CDN77.ORG
+DOMAIN-SUFFIX,rsc.cdn77.org
 DOMAIN-SUFFIX,AMAZONAWS.COM
 DOMAIN-SUFFIX,PUSHWOOSH.COM
 DOMAIN-SUFFIX,mopub.com
@@ -18,7 +19,15 @@ DOMAIN-SUFFIX,smadex.com
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN-SUFFIX,boltdns.net
 DOMAIN-SUFFIX,prod.boltdns.net
-DOMAIN-SUFFIX,rsc.cdn77.org
+DOMAIN-SUFFIX,spread-ads41.com
+DOMAIN-SUFFIX,cluep.com
+DOMAIN-SUFFIX,ipredictive.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,rtbcon.com
+DOMAIN-SUFFIX,liftoff.io
+DOMAIN-SUFFIX,aarki.net
+DOMAIN-SUFFIX,rayjump.com
+DOMAIN,impression-us-east.dataseat.com
 DOMAIN-SUFFIX,tvbaw.com
 DOMAIN,tvbanywherena.com
 DOMAIN,cdn.rawgit.com
