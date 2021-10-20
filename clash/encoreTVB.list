@@ -19,4 +19,4 @@ DOMAIN,manifest.prod.boltdns.net
 DOMAIN-SUFFIX,boltdns.net
 DOMAIN-SUFFIX,prod.boltdns.net
 DOMAIN-SUFFIX,rsc.cdn77.org
-DOMAIN,api.tvbaw.com
+DOMAIN-SUFFIX,tvbaw.com
