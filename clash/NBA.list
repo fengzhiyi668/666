@@ -53,3 +53,6 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,imggaming.com
 DOMAIN-SUFFIX,opin.media
 DOMAIN,sdk.iad-03.braze.com
+DOMAIN-SUFFIX,easelive.tv
+DOMAIN-SUFFIX,number60.tv
+DOMAIN,imagehandler-api.number60.tv
