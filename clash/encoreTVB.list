@@ -56,3 +56,4 @@ IP-CIDR,209.73.190.16/28,no-resolve
 IP-CIDR,209.73.190.32/27,no-resolve
 IP-CIDR,209.73.190.64/26,no-resolve
 IP-CIDR,209.73.190.128/25,no-resolve
+DOMAIN-SUFFIX,dspunion.com
