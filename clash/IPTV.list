@@ -37,3 +37,5 @@ IP-CIDR,27.36.62.16/28,no-resolve
 IP-CIDR,27.36.62.32/27,no-resolve
 IP-CIDR,27.36.62.64/26,no-resolve
 IP-CIDR,27.36.62.128/25,no-resolve
+
+IP-CIDR,211.23.114.106/32,no-resolve
