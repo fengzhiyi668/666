@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,akamai.net
 DOMAIN,akamai.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN,akamaiedge.net
-DOMAIN-KEYWORD,akamai
 ##DOMAIN,nbaapi.neulion.com.akadns.net
 ##DOMAIN-SUFFIX,nbaapi.neulion.com.akadns.net
 DOMAIN,nbaprop.sc.omtrdc.net
