@@ -1,4 +1,4 @@
-# Update > 2021.2.27 Go advertising rule Integration lhie1 and ConnersHua
+# Update > 2022.1.26
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,mcupdate.gstarcad.com
 DOMAIN-SUFFIX,adx.open-adx.com
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,news.l.qq.com
 DOMAIN-SUFFIX,unidesk.alicdn.com
 DOMAIN-SUFFIX,idealads.net
 DOMAIN-SUFFIX,ironsrc.com
+DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN-SUFFIX,apoll.m.taobao.com
 DOMAIN-SUFFIX,comet.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
@@ -1272,6 +1273,7 @@ DOMAIN-SUFFIX,ahyau.com
 DOMAIN-SUFFIX,ahyuns.com
 DOMAIN-SUFFIX,ai.bioon.com
 DOMAIN-SUFFIX,ai.m.taobao.com
+DOMAIN-SUFFIX,ai.taobao.com
 DOMAIN-SUFFIX,ai.xinju.cc
 DOMAIN-SUFFIX,ai.yimg.jp
 DOMAIN-SUFFIX,aibangzs.com
@@ -1305,7 +1307,6 @@ DOMAIN-SUFFIX,alertserver.ushaqi.com
 DOMAIN-SUFFIX,alipay.dajiadou6.com
 DOMAIN-SUFFIX,aliqqjd.cn
 DOMAIN-SUFFIX,alisinak.com
-DOMAIN-SUFFIX,alissl.ucdl.pp.uc.cn
 DOMAIN-SUFFIX,alistatic.cn
 DOMAIN-SUFFIX,alitianxia168.com
 DOMAIN-SUFFIX,alitui.weibo.com
@@ -1422,7 +1423,6 @@ DOMAIN-SUFFIX,api-flow.flyme.cn
 DOMAIN-SUFFIX,api-game.meizu.com
 DOMAIN-SUFFIX,apihk.growingio.com
 DOMAIN-SUFFIX,api-push.meizu.com
-DOMAIN-SUFFIX,api-shoulei-ssl.xunlei.com
 DOMAIN-SUFFIX,apisoft.df0535.com
 DOMAIN-SUFFIX,apk.idate520.com
 DOMAIN-SUFFIX,apk.supfast.net
@@ -4990,7 +4990,6 @@ DOMAIN-SUFFIX,m.xcy8.com
 DOMAIN-SUFFIX,m.xdkje.com
 DOMAIN-SUFFIX,m.xeihy.com
 DOMAIN-SUFFIX,m.xetvb.com
-DOMAIN,ads.cdn.tvb.com
 DOMAIN-SUFFIX,m.xhaiu.com
 DOMAIN-SUFFIX,m.xiangchim0.com
 DOMAIN-SUFFIX,m.xikdn.com
@@ -8649,5 +8648,3 @@ IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 #知乎
 IP-CIDR,188.89.204.198/32,no-resolve
-DOMAIN-KEYWORD,fra0
-IP-CIDR,45.57.74.0/23,no-resolve
