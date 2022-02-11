@@ -5,14 +5,14 @@ DOMAIN-SUFFIX,disneyplus.com,Disney+
 DOMAIN-SUFFIX,disneystreaming.com,Disney+
 DOMAIN-SUFFIX,dssott.com,Disney+
 // DOMAIN-SUFFIX,bamgrid.com,Disney+
+DOMAIN,playback-certs.bamgrid.com,Disney Plus
 DOMAIN,disney.playback.edge.bamgrid.com,Disney+
 DOMAIN,disney.api.edge.bamgrid.com,Disney+
 DOMAIN,disney.connections.edge.bamgrid.com,Disney+
 DOMAIN,disney.content.edge.bamgrid.com,Disney+
 DOMAIN,cdn.registerdisney.go.com,Disney+
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney+
-DOMAIN-SUFFIX,disney.demdex.net,Disney+
-DOMAIN,disney.my.sentry.io,Disney+
-IP-CIDR,5.28.194.150/32,Disney+
-DOMAIN-SUFFIX,braze.com,Disney+
-DOMAIN-SUFFIX,conviva.com,Disney+
+
+
+
+
