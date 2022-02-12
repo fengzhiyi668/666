@@ -13,7 +13,6 @@ DOMAIN,disney.content.edge.bamgrid.com,Disney+
 DOMAIN,cdn.registerdisney.go.com,Disney+
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney+
 DOMAIN,disney.my.sentry.io,Disney+
-
-
+DOMAIN-SUFFIX,braze.com,Disney+
 
 
