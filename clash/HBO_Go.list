@@ -1,4 +1,4 @@
-# > HBO GO HKG
+# > HBO GO
 USER-AGENT,HBO%20GO%20PROD%20HKG*
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
@@ -20,3 +20,4 @@ DOMAIN,hbounify-prod.evergent.com
 DOMAIN,hbolb.onwardsmg.com
 DOMAIN-SUFFIX,onwardsmg.com
 DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,hboasialive.akamaized.net
