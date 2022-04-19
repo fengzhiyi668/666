@@ -29,5 +29,5 @@ NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 #机场信息
 #必须修改的字段:你encode后的机场订阅链接
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=[https%3A%2F%2Fflowercloud.xyz%2Fmodules%2Fservers%2FV2raySocks%2Fosubscribe.php%3Fsid%3D3185%26token%3Djqd871dF6mNY]&reset_day=1&title=FlowerCloud&icon=opticaldisc&color=#5AC8FA
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js ,script-update-interval=0,argument=url=[https%3A%2F%2Fapi.flowercloud.yt%2Fsub%3Ftarget%3Dsurge%26ver%3D4%26list%3Dtrue%26emoji%3Dtrue%26tfo%3Dtrue%26udp%3Dtrue%26url%3Dhttps%253A%252F%252Fflowercloud.xyz%252Fmodules%252Fservers%252FV2raySocks%252Fosubscribe.php%253Fsid%253D3185%2526token%253Djqd871dF6mNY]&reset_day=1&title=FlowerCloud&icon=opticaldisc&color=#5AC8FA
 
