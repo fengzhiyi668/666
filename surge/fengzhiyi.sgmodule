@@ -15,24 +15,7 @@ Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.co
 Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https://api.flowercloud.yt/sub?target=surge&ver=4&list=true&emoji=true&tfo=true&udp=true&url=https://api.sublink.dev/sub?target=surge&ver=4&url=https%3A%2F%2Fapi.lipulai.com%2Fapi_version2%2Fubugsb4olesbivst%3Fsub%3D3%26extend%3D1&insert=false&extend=1&reset_day=2&title=Fastlink&icon=opticaldisc&color=#5AC8FA
 
 
-# MIX解锁特权
-MIX.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/MIX.js,type=http-response,pattern=https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery
-# VSCO 解锁高级特权
-vsco.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js,type=http-response,pattern=^https:\/\/(api\.revenuecat\.com\/v\d\/subscribers|vsco\.co\/api\/subscriptions\/\d\.\d\/user-subscriptions)\/
-# 全能扫描王 解锁部分高级特权
-CamScanner.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js,type=http-response,pattern=https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\?
-# NiChi 解锁素材包
-NiChi.js = requires-body=1,max-size=524288,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/NiChi.js,type=http-response,pattern=https?:\/\/m(p|ini-hk)\.bybutter\.com\/mood\/(official-templates|privileges)
-# PicsArt 解锁高级功能
-PicsArt.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/PicsArt.js,type=http-response,pattern=https:\/\/api\.(picsart|meiease)\.c(n|om)\/users\/show\/me\.json
-# Polarr泼辣修图 解锁特权 (需恢复购买)
-Polarr.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Polarr.js,type=http-response,pattern=^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation
-# VUE Vlog 解锁高级功能 (需登录)
-VUE.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/VUE.js,type=http-response,pattern=https:\/\/api\.vuevideo\.net\/api\/v1\/(users\/.+\/profile|subtitle\/prepare)
-# WPS Office 解锁部分功能
-Wps.js = requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Wps.js,type=http-response,pattern=^https?:\/\/account\.wps\.cn\/api\/users
-京东多合一签到 = type=cron,cronexp=5 0 * * *,wake-system=1,timeout=60,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
-获取京东Cookie = type=http-request,requires-body=1,pattern=^https:\/\/(api\.m|me-api|ms\.jr)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?|gw\/generic\/hy\/h5\/m\/appSign\?),script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+
 
 
 
@@ -49,5 +32,4 @@ NET_info = script-name=NET_info,update-interval=1
 Sub_info 1 = script-name=Sub_info1,update-interval=1800
 Sub_info 2 = script-name=Sub_info2,update-interval=1800
 
-[mitm]
-hostname = bmall.camera360.com, vsco.co, api.revenuecat.com, ap*.intsig.net, m*.bybutter.com, api.picsart.c*, api.meiease.c*, api.polaxiong.com, api.vuevideo.net, account.wps.cn, ms.jr.jd.com, me-api.jd.com, api.m.jd.com
+
