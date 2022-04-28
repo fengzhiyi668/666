@@ -14,13 +14,6 @@ NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https://api.flowercloud.yt/sub?target=surge&ver=4&list=true&emoji=true&tfo=true&udp=true&url=https%3A%2F%2Fflowercloud.xyz%2Fmodules%2Fservers%2FV2raySocks%2Fosubscribe.php%3Fsid%3D3185%26token%3Djqd871dF6mNY&reset_day=30&title=FlowerCloud&icon=opticaldisc&color=#5AC8FA
 Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https://api.flowercloud.yt/sub?target=surge&ver=4&list=true&emoji=true&tfo=true&udp=true&url=https://api.sublink.dev/sub?target=surge&ver=4&url=https%3A%2F%2Fapi.lipulai.com%2Fapi_version2%2Fubugsb4olesbivst%3Fsub%3D3%26extend%3D1&insert=false&extend=1&reset_day=2&title=Fastlink&icon=opticaldisc&color=#5AC8FA
 
-# 哔哩哔哩, 港澳台番剧自动切换地区
-Bili Region = type=http-response,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/v\d\/search\/defaultwords)\?access_key,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js
-# 可选, 适用于搜索指定地区的番剧
-Bili Search = type=http-request,pattern=^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)&,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bili_Auto_Regions.js
-
-[mitm]
-hostname = ap?.bilibili.com, ap?.biliapi.net
 
 
 
