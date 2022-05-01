@@ -14,6 +14,9 @@ DOMAIN,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN,disney.my.sentry.io
 
+DOMAIN-SUFFIX,media.dssott.com
+DOMAIN,prod-ripcut-delivery.disney-plus.net
+
 // DOMAIN-SUFFIX,disney.demdex.net
 // DOMAIN-SUFFIX,braze.com
 // DOMAIN-SUFFIX,conviva.com
