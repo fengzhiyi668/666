@@ -11,7 +11,7 @@ TrafficStatistics = type=generic,timeout=10,script-path=https://raw.githubuserco
 NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/net_info.js,argument=icon=externaldrive.connected.to.line.below&color=#9a7ff7&group=Proxy
 # 机场信息
 # 必须修改的字段:你encode后的机场订阅链接
-Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fflowercloud.xyz%2Fmodules%2Fservers%2FV2raySocks%2Fosubscribe.php%3Fsid%3D3185%26token%3DJd94bOoBQCoj&reset_day=13&title=FlowerCloud&icon=opticaldisc&color=#5AC8FA
+Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fflowercloud.xyz%2Fmodules%2Fservers%2FV2raySocks%2Fosubscribe.php%3Fsid%3D3185%26token%3DJd94bOoBQCoj&reset_day=13&title=FlowerCloud&icon=cloud.moon.rain.fill&color=#5AC8FA
 Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fapi.lipulai.com%2Fapi_version2%2F5xuww2pq3hulqw5n%3Fsub%3D3%26extend%3D1&reset_day=2&title=Fastlink&icon=cloud.sun.rain.fill&color=#5AC8FA
 
 
