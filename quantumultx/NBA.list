@@ -62,3 +62,5 @@ DOMAIN,mobile-data.onetrust.io,NBA
 DOMAIN,optanon.blob.core.windows.net,NBA
 DOMAIN,nbadsdmt.akamaized.net,NBA
 DOMAIN,nlnba-a.akamaihd.net,NBA
+DOMAIN-SUFFIX,demdex.net,NBA
+DOMAIN,neulionqos-a.akamaihd.net,NBA
