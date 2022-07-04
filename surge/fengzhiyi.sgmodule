@@ -12,7 +12,7 @@ NET_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 # 机场信息
 # 必须修改的字段:你encode后的机场订阅链接
 Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fapi.flowercloud.xyz%2Fosubscribe.php%3Fsid%3D5658%26token%3DPRe288Xg3VF2&reset_day=19&title=FlowerCloud&icon=cloud.moon.rain.fill&color=#5AC8FA
-Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fapi.lipulai.com%2Fapi_version2%2F5xuww2pq3hulqw5n%3Fsub%3D3%26extend%3D1&reset_day=2&title=Fastlink&icon=cloud.sun.rain.fill&color=#5AC8FA
+Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/sub_info_panel.js,script-update-interval=0,argument=url=https%3A%2F%2Fapi.lipulai.com%2Fapi_version2%2Fygvm2sgpuungs0gc%3Fsub%3D3%26extend%3D1&reset_day=2&title=Fastlink&icon=cloud.sun.rain.fill&color=#5AC8FA
 
 
 [Panel]
