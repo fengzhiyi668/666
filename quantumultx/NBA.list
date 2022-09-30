@@ -4,13 +4,14 @@ DOMAIN,nba-cdn.cloud.easelive.tv,NBA
 ##DOMAIN,nbaapi.neulion.com,NBA
 DOMAIN,stats.nba.com,NBA
 DOMAIN,nlnbamdnyc-a.akamaihd.net,NBA
-##DOMAIN,identity.nba.com,NBA
+DOMAIN,identity.nba.com,NBA
 DOMAIN,content-api-prod.nba.com,NBA
 DOMAIN,watchnba.cdnfastly.endeavorstreaming.net,NBA
 ##DOMAIN,nlnbaqos.neulion.com,NBA
 DOMAIN,cdn.nba.com,NBA
-##DOMAIN,watch.nba.com,NBA
+DOMAIN,watch.nba.com,NBA
 DOMAIN,geolocation.onetrust.com,NBA
+DOMAIN-SUFFIX,neulion.com,NBA
 DOMAIN,neulionnbaovod-a.akamaihd.net,NBA
 ##DOMAIN,psapi.neulion.com,NBA
 ##DOMAIN,nbapcm.neulion.com,NBA
