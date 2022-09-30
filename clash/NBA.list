@@ -1,15 +1,15 @@
 # > NBA
 USER-AGENT,NBA*
 DOMAIN,nba-cdn.cloud.easelive.tv
-##DOMAIN,nbaapi.neulion.com
+DOMAIN-SUFFIX,neulion.com
 DOMAIN,stats.nba.com
 DOMAIN,nlnbamdnyc-a.akamaihd.net
-##DOMAIN,identity.nba.com
+DOMAIN,identity.nba.com
 DOMAIN,content-api-prod.nba.com
 DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
 ####DOMAIN,nlnbaqos.neulion.com
 DOMAIN,cdn.nba.com
-##DOMAIN,watch.nba.com
+DOMAIN,watch.nba.com
 DOMAIN,geolocation.onetrust.com
 DOMAIN,neulionnbaovod-a.akamaihd.net
 ##DOMAIN,psapi.neulion.com
