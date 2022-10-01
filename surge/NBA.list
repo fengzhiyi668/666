@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,images.com
 DOMAIN-SUFFIX,opin.media
-DOMAIN,sdk.iad-03.braze.com
+##DOMAIN,sdk.iad-03.braze.com
 DOMAIN-SUFFIX,easelive.tv
 DOMAIN-SUFFIX,number60.tv
 DOMAIN,imagehandler-api.number60.tv
