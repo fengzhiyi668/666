@@ -73,3 +73,7 @@ DOMAIN-SUFFIX,bitmovin.com
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN,app-measurement.com
+
+DOMAIN,watch.nba.com
+DOMAIN,identity.nba.com
+DOMAIN-SUFFIX,neulion.com
