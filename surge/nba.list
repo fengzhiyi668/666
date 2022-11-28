@@ -1,2 +1,4 @@
 # > nba
 DOMAIN,ottapp-appgw-amp.nba.com
+DOMAIN,ottapp-appgw-client.nba.com
+DOMAIN-SUFFIX,nba.com
