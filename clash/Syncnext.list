@@ -1,0 +1,22 @@
+# Syncnext API
+notion-api.splitbee.io # 主要，會 AdgurdHome 攔截，需要加入白名單
+syncnext-api.5mlstudio.com # 備用（部分區域網絡此域名需要翻牆）
+
+# 配套功能
+themoviedb.org # 元數據匹配服務
+thetvdb.com # 分集數據匹配服務
+tmdb.org # 元數據圖片
+discord.com # 自動反饋錯誤
+api.beijinxuetang.com # IP 地址取得服務
+
+# 頻道
+歐樂影院 #地址（Menu-設置）查看，需要翻牆
+olemovienews.com #歐樂部分影片的播放域名，提示 SSL 錯誤既需要翻牆
+
+
+# 海外看 # 感謝各位群組成員反饋
+haiwaikan.com 
+bfvvs.com
+cdn.venus7202.com
+cdn.ceres9350.com
+cdn.efhie.com
