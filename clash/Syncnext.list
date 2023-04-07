@@ -1,6 +1,6 @@
 # Syncnext API
 DOMAIN-SUFFIX,splitbee.io # 主要，會 AdgurdHome 攔截，需要加入白名單
-DOMAIN-SUFFIX,5mlstudio.com # 備用（部分區域網絡此域名需要翻牆）
+DOMAIN-KEYWORD,syncnext # 備用（部分區域網絡此域名需要翻牆）
 
 # 配套功能
 DOMAIN-SUFFIX,themoviedb.org # 元數據匹配服務
