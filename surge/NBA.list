@@ -63,6 +63,9 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,neulion.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,ra3ncmyg1p.com
 
 ##DOMAIN,identity.nba.com
 ##DOMAIN,stats.nba.com
