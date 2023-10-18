@@ -1,9 +1,5 @@
 # > emby
 USER-AGENT,emby*,emby
-DOMAIN,emby.maying.club,emby
-IP-CIDR,104.238.220.90/32,emby
-DOMAIN,subserver.maying.io,emby
 DOMAIN,emby.flowercloud.yt,emby
-DOMAIN,cu.poloemby.xyz,emby
-IP-CIDR,194.180.179.226/32,emby
-DOMAIN,emby.misakaf.xyz,emby
+DOMAIN,cf.jmsooo.com,emby
+DOMAIN-SUFFIX,misakaf.org,emby
