@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
 # > Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
@@ -80,6 +81,7 @@ DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
+DOMAIN-SUFFIX,microsoft.com
 # > The New York Times
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytchina.com
