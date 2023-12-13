@@ -5,12 +5,10 @@ https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
 https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 8M
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 8M
-https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺 8M
-https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 
+http://www.hkyuancheng.lol:7088/udp/239.253.64.161:5140
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台视" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="新闻",凤凰卫视中文台
 http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
@@ -71,23 +69,23 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.72:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.251:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://www.hkyuancheng.lol:7088/udp/239.253.64.67:5140
-#EXTINF:-1,CGTN纪录
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="其他",CGTN纪录
 http://www.hkyuancheng.lol:7088/udp/239.253.64.58:5140
-#EXTINF:-1,欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="其他",欢笑剧场4K
 http://www.hkyuancheng.lol:7088/udp/239.253.64.138:5140
-#EXTINF:-1,海南卫视
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="地方台",海南卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.253:5140
-#EXTINF:-1,三沙卫视
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="地方台",三沙卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.112:5140
-#EXTINF:-1,海南公共
+#EXTINF:-1,tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://epg.112114.xyz/logo/海南公共.png" group-title="地方台",海南公共
 http://www.hkyuancheng.lol:7088/udp/239.253.64.14:5140
-#EXTINF:-1,海南少儿
+#EXTINF:-1,tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://epg.112114.xyz/logo/海南少儿.png" group-title="地方台",海南少儿
 http://www.hkyuancheng.lol:7088/udp/239.253.64.124:5140
-#EXTINF:-1,海南文旅
+#EXTINF:-1,tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://epg.112114.xyz/logo/海南文旅.png" group-title="地方台",海南文旅
 http://www.hkyuancheng.lol:7088/udp/239.253.64.122:5140
-#EXTINF:-1,海南新闻
+#EXTINF:-1,tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://epg.112114.xyz/logo/海南新闻.png" group-title="地方台",海南新闻
 http://www.hkyuancheng.lol:7088/udp/239.253.64.121:5140
-#EXTINF:-1,海南经济
+#EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="https://epg.112114.xyz/logo/海南经济.png" group-title="地方台",海南经济
 http://www.hkyuancheng.lol:7088/udp/239.253.64.119:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.201:5140
@@ -125,55 +123,53 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.150:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.63:5140
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.57:5140
-#EXTINF:-1,游戏风云
-http://www.hkyuancheng.lol:7088/udp/239.253.64.161:5140
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.56:5140
-#EXTINF:-1,生活时尚
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
 http://www.hkyuancheng.lol:7088/udp/239.253.64.104:5140
-#EXTINF:-1,纪实人文
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="其他",纪实人文
 http://www.hkyuancheng.lol:7088/udp/239.253.64.149:5140
-#EXTINF:-1,都市剧场
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场
 http://www.hkyuancheng.lol:7088/udp/239.253.64.101:5140
-#EXTINF:-1,金鹰纪实
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
 http://www.hkyuancheng.lol:7088/udp/239.253.64.168:5140
-#EXTINF:-1,海口1
+#EXTINF:-1,tvg-id="海口1" tvg-name="海口1" tvg-logo="https://epg.112114.xyz/logo/海口1.png" group-title="地方台",海口1
 http://www.hkyuancheng.lol:7088/udp/239.253.64.6:5140
-#EXTINF:-1,海口2
+#EXTINF:-1,tvg-id="海口2" tvg-name="海口2" tvg-logo="https://epg.112114.xyz/logo/海口2.png" group-title="地方台",海口2
 http://www.hkyuancheng.lol:7088/udp/239.253.64.7:5140
-#EXTINF:-1,海口3
+#EXTINF:-1,tvg-id="海口3" tvg-name="海口3" tvg-logo="https://epg.112114.xyz/logo/海口3.png" group-title="地方台",海口3
 http://www.hkyuancheng.lol:7088/udp/239.253.64.8:5140
-#EXTINF:-1,三亚1
+#EXTINF:-1,tvg-id="三亚" tvg-name="三亚" tvg-logo="https://epg.112114.xyz/logo/三亚.png" group-title="地方台",三亚
 http://www.hkyuancheng.lol:7088/udp/239.253.64.9:5140
-#EXTINF:-1,文昌TV
+#EXTINF:-1,tvg-id="文昌TV" tvg-name="文昌TV" tvg-logo="https://epg.112114.xyz/logo/文昌TV.png" group-title="地方台",文昌TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.105:5140
-#EXTINF:-1,白沙TV
+#EXTINF:-1,tvg-id="白沙TV" tvg-name="白沙TV" tvg-logo="https://epg.112114.xyz/logo/白沙TV.png" group-title="地方台",白沙TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.118:5140
-#EXTINF:-1,昌江TV
+#EXTINF:-1,tvg-id="昌江TV" tvg-name="昌江TV" tvg-logo="https://epg.112114.xyz/logo/昌江TV.png" group-title="地方台",昌江TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.108:5140
-#EXTINF:-1,五指山TV
+#EXTINF:-1,tvg-id="五指山TV" tvg-name="五指山TV" tvg-logo="https://epg.112114.xyz/logo/五指山TV.png" group-title="地方台",五指山TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.69:5140
-#EXTINF:-1,儋州TV
+#EXTINF:-1,tvg-id="儋州TV" tvg-name="儋州TV" tvg-logo="https://epg.112114.xyz/logo/儋州TV.png" group-title="地方台",儋州TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.107:5140
-#EXTINF:-1,澄迈TV
+#EXTINF:-1,tvg-id="澄迈TV" tvg-name="澄迈TV" tvg-logo="https://epg.112114.xyz/logo/澄迈TV.png" group-title="地方台",澄迈TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.109:5140
-#EXTINF:-1,保亭TV
+#EXTINF:-1,tvg-id="保亭TV" tvg-name="保亭TV" tvg-logo="https://epg.112114.xyz/logo/保亭TV.png" group-title="地方台",保亭TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.159:5140
-#EXTINF:-1,陵水TV
+#EXTINF:-1,tvg-id="陵水TV" tvg-name="陵水TV" tvg-logo="https://epg.112114.xyz/logo/陵水TV.png" group-title="地方台",陵水TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.116:5140
-#EXTINF:-1,万宁TV
+#EXTINF:-1,tvg-id="万宁TV" tvg-name="万宁TV" tvg-logo="https://epg.112114.xyz/logo/万宁TV.png" group-title="地方台",万宁TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.167:5140
-#EXTINF:-1,临高TV
+#EXTINF:-1,tvg-id="临高TV" tvg-name="临高TV" tvg-logo="https://epg.112114.xyz/logo/临高TV.png" group-title="地方台",临高TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.155:5140
-#EXTINF:-1,屯昌TV
+#EXTINF:-1,tvg-id="屯昌TV" tvg-name="屯昌TV" tvg-logo="https://epg.112114.xyz/logo/屯昌TV.png" group-title="地方台",屯昌TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.117:5140
-#EXTINF:-1,琼海TV
+#EXTINF:-1,tvg-id="琼海TV" tvg-name="琼海TV" tvg-logo="https://epg.112114.xyz/logo/琼海TV.png" group-title="地方台",琼海TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.106:5140
-#EXTINF:-1,定安TV
+#EXTINF:-1,tvg-id="定安TV" tvg-name="定安TV" tvg-logo="https://epg.112114.xyz/logo/定安TV.png" group-title="地方台",定安TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.110:5140
-#EXTINF:-1,东方TV
+#EXTINF:-1,tvg-id="东方TV" tvg-name="东方TV" tvg-logo="https://epg.112114.xyz/logo/东方TV.png" group-title="地方台",东方TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.111:5140
-#EXTINF:-1,琼中TV
+#EXTINF:-1,tvg-id="琼中TV" tvg-name="琼中TV" tvg-logo="https://epg.112114.xyz/logo/琼中TV.png" group-title="地方台",琼中TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.165:5140
-#EXTINF:-1,乐东TV
+#EXTINF:-1,tvg-id="乐东TV" tvg-name="乐东TV" tvg-logo="https://epg.112114.xyz/logo/乐东TV.png" group-title="地方台",乐东TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.166:5140
