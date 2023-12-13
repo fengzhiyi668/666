@@ -67,6 +67,8 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.115:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.72:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://www.hkyuancheng.lol:7088/udp/239.253.64.251:5140
+#EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16-4K.png" group-title="央视",CCTV16-4K
+http://www.hkyuancheng.lol:7088/udp/239.253.64.126:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://www.hkyuancheng.lol:7088/udp/239.253.64.67:5140
 #EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="其他",CGTN纪录
@@ -133,6 +135,10 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.149:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.101:5140
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
 http://www.hkyuancheng.lol:7088/udp/239.253.64.168:5140
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
+http://www.hkyuancheng.lol:7088/udp/239.253.64.102:5140
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
+http://www.hkyuancheng.lol:7088/udp/239.253.64.169:5140
 #EXTINF:-1,tvg-id="海口1" tvg-name="海口1" tvg-logo="https://epg.112114.xyz/logo/海口1.png" group-title="地方台",海口1
 http://www.hkyuancheng.lol:7088/udp/239.253.64.6:5140
 #EXTINF:-1,tvg-id="海口2" tvg-name="海口2" tvg-logo="https://epg.112114.xyz/logo/海口2.png" group-title="地方台",海口2
