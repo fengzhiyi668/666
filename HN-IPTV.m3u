@@ -179,3 +179,5 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.111:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.165:5140
 #EXTINF:-1,tvg-id="乐东TV" tvg-name="乐东TV" tvg-logo="https://epg.112114.xyz/logo/乐东TV.png" group-title="地方台",乐东TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.166:5140
+#EXTINF:-1,tvg-id="乐东TV" tvg-name="乐东TV" tvg-logo="https://epg.112114.xyz/logo/乐东TV.png" group-title="地方台",乐东TV
+http://192.168.5.1:5678/cqyx.php?id=cctv16HD
