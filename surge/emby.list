@@ -2,4 +2,6 @@
 USER-AGENT,emby*
 DOMAIN,emby.flowercloud.yt
 DOMAIN,cf.jmsooo.com
-DOMAIN-SUFFIX,misakaf.org
+##DOMAIN-SUFFIX,misakaf.org
+DOMAIN,emby.misakaf.org
+DOMAIN,cdn.misakaf.org 
