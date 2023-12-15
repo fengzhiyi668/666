@@ -53,7 +53,7 @@ https://fake-stream.livednow.com/4gtv/litv-ftv07?token=2b2480ad38bb491616814d2d6
 https://fake-stream.livednow.com/laotv/DongsenMovie?token=d4ad937288691d13efd01ab155bc9413&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="105254" tvg-name="東森洋片" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png" group-title="電影戲劇",東森洋片
 https://fake-stream.livednow.com/laotv/DongsenForeignMovie?token=056590c13ea374b1e2acd1f9e3ccd723&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="11088" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="新聞財經",中天亞洲台
+#EXTINF:-1 tvg-id="11088" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="新闻",中天亞洲台
 https://fake-stream.livednow.com/youtube/s2waUruqze4?token=2d8b533fc1ee27efe5db4fd2f5085a99&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="10857" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合",中視
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
@@ -65,7 +65,6 @@ https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d
 https://fake-stream.livednow.com/rthk/31?token=2cdfa52b7b285b4e6356b16c6186bc70&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="-1" tvg-name="港台電視 32" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/RTHK32.png" group-title="綜合",港台電視 32
 https://fake-stream.livednow.com/rthk/32?token=47c867d5a38df782e29884ff0b9119a4&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="105256" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜藝",靖天資訊台
 https://fake-stream.livednow.com/4gtv/88?token=cc6d395a61717bdaa74be623c03e1293&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="11976" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合",靖天日本台
@@ -98,20 +97,8 @@ https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613
 https://fake-stream.livednow.com/4gtv/172?token=7d013a38d60f158b1b1265f688e8172b&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="14091" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="綜合",愛爾達娛樂台
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv070?token=db069a3611acce8397d3d2aa3254120e&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="12633" tvg-name="Arirang TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="綜合",Arirang TV
-https://fake-stream.livednow.com/4gtv/189?token=e1bc34c1b6389eebc5d5f5d388c36c7c&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="-1" tvg-name="Super Kids" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mykids.png" group-title="少兒",Super Kids
-https://fake-stream.livednow.com/hkdvb/100?token=4ca49eadbb75755188c43ead50fe9130&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="10989" tvg-name="ANIMAX" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Animax.png" group-title="少兒",ANIMAX
-https://fake-stream.livednow.com/hkdvb/504?token=ef3d608c76c3191c65a1ab15ea4fb43a&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="13941" tvg-name="美亞电影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/meiyady.png" group-title="電影戲劇",美亞电影台
-https://fake-stream.livednow.com/hkdvb/201?token=1d1758ebd294647baa3f3922c0ad16b7&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="11985" tvg-name="i-Fun動漫台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ifun2.png" group-title="少兒",i-Fun動漫台
 https://fake-stream.livednow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="11989" tvg-name="韩国娱乐台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜藝",韓國娛樂台 KMTV
-https://fake-stream.livednow.com/4gtv/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="10937" tvg-name="Trace Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="綜藝",Trace Urban
-https://fake-stream.livednow.com/4gtv/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="11136" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活",亞洲旅遊台
 https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="14082" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影台
