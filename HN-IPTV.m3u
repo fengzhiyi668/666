@@ -134,7 +134,7 @@ http://www.hkyuancheng.lol:3555/youtube/WHEPzbFA3hw
 #EXTINF:-1 tvg-id="10843" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合",民視
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="11229" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合",民視第一台
-https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+http://192.168.5.1:5678/4gtv.php?id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="11230" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合",民視台灣台
 https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="14093" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="綜藝",民視綜藝台
@@ -255,6 +255,5 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.111:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.165:5140
 #EXTINF:-1,tvg-id="乐东TV" tvg-name="乐东TV" tvg-logo="https://epg.112114.xyz/logo/乐东TV.png" group-title="地方台",乐东TV
 http://www.hkyuancheng.lol:7088/udp/239.253.64.166:5140
-#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" group-title="綜合",民視第一台
-http://192.168.5.1:5678/4gtv.php?id=4gtv-4gtv003
+
 
