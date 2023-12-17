@@ -5,8 +5,6 @@ http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/Zm4i_rvAcxc
-#EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png" group-title="新闻",凤凰卫视香港台
-http://223.19.212.121:20121/bysid/259
 #EXTINF:-1 tvg-id="105176" tvg-name="TVB 翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",TVB 翡翠台
 https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1 tvg-id="-1" tvg-name="TVB 黄金翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",TVB 黄金翡翠台
