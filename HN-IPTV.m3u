@@ -5,10 +5,50 @@ http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
 http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/Zm4i_rvAcxc
-#EXTINF:-1 tvg-id="13934" tvg-name="TVB 無線新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB4.png" group-title="新闻",TVB 無線新聞台
+#EXTINF:-1 tvg-id="105176" tvg-name="TVB 翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",TVB 翡翠台
+https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="-1" tvg-name="TVB 黄金翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",TVB 黄金翡翠台
+https://fake-stream.livednow.com/hkdvb/80?token=96927aecc828569c5f958337601f9248&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="105326" tvg-name="TVB 明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="綜合",TVB 明珠台
+https://fake-stream.livednow.com/hkdvb/84?token=761bbc9932c7391e82ea144d899826b1&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="13933" tvg-name="TVB 千禧經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB8.png" group-title="綜合",TVB 千禧經典台
+https://fake-stream.livednow.com/hkdvb/86?token=96282e184cec51af8cc9a28e49e59bcb&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="158502" tvg-name="TVB 華語劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB13.png" group-title="電影戲劇",TVB 華語劇台
+https://fake-stream.livednow.com/hkdvb/89?token=2dd0f28e21574be5fefe70204e7085a0&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="-1" tvg-name="TVB 黄金華劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB13.png" group-title="電影戲劇",TVB 黄金華劇台
+https://fake-stream.livednow.com/hkdvb/90?token=04920edda3ae44e44e182f152aad3917&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="-1" tvg-name="TVB 亞洲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB13.png" group-title="電影戲劇",TVB 亞洲劇台
+https://fake-stream.livednow.com/hkdvb/87?token=3ab4a7da3b2e3a7132beaaf48386ef22&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="105222" tvg-name="TVB J2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB3.png" group-title="綜合",TVB J2 台
+https://fake-stream.livednow.com/hkdvb/82?token=a85230d36b3c6684dc27cac41e48c307&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="13934" tvg-name="TVB 無線新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB4.png" group-title="新聞財經",TVB 無線新聞台
 https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
-#EXTINF:-1 tvg-id="13935" tvg-name="財經體育資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB5.png" group-title="新闻",TVB 財經體育資訊台
+#EXTINF:-1 tvg-id="13934" tvg-name="TVB 無線新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB4.png" group-title="新聞財經",TVB 無線新聞台 海外版
+https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d0902271fb360c710d&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="13935" tvg-name="財經體育資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB5.png" group-title="新聞財經",TVB 財經體育資訊台
 https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="13935" tvg-name="財經體育資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB5.png" group-title="新聞財經",TVB 財經體育資訊台 海外版
+https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="3920" tvg-name="TVB 娛樂新聞台" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="新聞財經",TVB 娛樂新聞台
+https://fake-stream.livednow.com/hkdvb/91?token=62aa282a1cfc31cac4671dcc46b97616&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="-1" tvg-name="TVB 戲曲台" tvg-logo="https://www.stream-link.org/tv_logo/astro_tvb_entertainment.png" group-title="電影戲劇",TVB 戲曲台
+https://fake-stream.livednow.com/hkdvb/98?token=989dadc90be588a544b41ec7108f8c49&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="-1" tvg-name="TVB 粵語片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB12.png" group-title="電影戲劇",TVB 粵語片台
+https://fake-stream.livednow.com/hkdvb/200?token=68ddb4acb487030821fa5ae11a2b8a1b&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10959" tvg-name="Viu" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2022/10/VIU-wbg-e.png" group-title="綜合",Viu
+https://fake-stream.livednow.com/hkdvb/102?token=8c0ec4331d8adf2250a30a4ca5f6717b&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10957" tvg-name="ViuTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv.png" group-title="綜合",ViuTV
+https://fake-stream.livednow.com/hkdvb/99?token=4f9da9e646f208b31487b63dd61944b2&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10954" tvg-name="ViuTV Six" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/viutv6.png" group-title="綜合",ViuTV Six
+https://fake-stream.livednow.com/hkdvb/96?token=c2ef93f8cedc0e38fe4de109850e3e6f&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10961" tvg-name="Now Chinese 華劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/now7.png" group-title="電影戲劇",Now Chinese 華劇台
+https://fake-stream.livednow.com/hkdvb/105?token=dffab913a79677241b4f55c852ffa178&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10967" tvg-name="Now Jelli 紫金國際台" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/108-dbg-c.png" group-title="綜合",Now Jelli 紫金國際台
+https://fake-stream.livednow.com/hkdvb/108?token=038554b8dae1331632d0349e0294c600&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10981" tvg-name="Now 爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/now4.png" group-title="電影戲劇",Now 爆谷台
+https://fake-stream.livednow.com/hkdvb/133?token=c464ac0e65f688f830f0ab40ae8b17dc&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
+#EXTINF:-1 tvg-id="10983" tvg-name="Now 星影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/now5.png" group-title="電影戲劇",Now 星影台
+https://fake-stream.livednow.com/hkdvb/138?token=b4f9642d5b0037eacb4759c2942da075&user_id=1434379091&user_token=ef8081d229f4eeb38900c5f84a58c3de
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="地方台",海南卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.253:5140
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="地方台",三沙卫视
