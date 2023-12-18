@@ -573,3 +573,15 @@ DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
 DOMAIN,store-images.s-microsoft.com,PROXY
+
+#Podcast
+DOMAIN-SUFFIX,megaphone.fm,PROXY
+DOMAIN-SUFFIX,autonavi.com,PROXY
+DOMAIN-SUFFIX,podtrac.com,PROXY
+DOMAIN-SUFFIX,chrt.fm,PROXY
+DOMAIN-SUFFIX,xmcdn.com,PROXY
+
+
+
+
+
