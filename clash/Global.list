@@ -592,3 +592,10 @@ DOMAIN,huacloud.icu
 DOMAIN,sublink.dev
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,dest2k.tk
+
+#Podcast
+DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,chrt.fm
+DOMAIN-SUFFIX,xmcdn.com
