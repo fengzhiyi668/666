@@ -474,3 +474,13 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,openai.com
+
+#Podcast
+DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,chrt.fm
+DOMAIN-SUFFIX,xmcdn.com
+
+
+
