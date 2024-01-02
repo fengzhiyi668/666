@@ -123,14 +123,6 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.101:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.168:5140
 #EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
 http://www.hkyuancheng.lol:7088/udp/239.253.64.102:5140
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-https://live.goodiptv.club/api/sxg.php?id=lnwsCHC-HDH265_4000
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 
-https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 
 http://www.hkyuancheng.lol:7088/udp/239.253.64.161:5140
 #EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV1
