@@ -67,7 +67,7 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.115:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.72:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
 http://www.hkyuancheng.lol:7088/udp/239.253.64.251:5140
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 奥林匹克 4K
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
 http://www.hkyuancheng.lol:7088/udp/239.253.64.126:5140
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://www.hkyuancheng.lol:7088/udp/239.253.64.67:5140
