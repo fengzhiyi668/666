@@ -6,3 +6,4 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,emby.misakaf.org
 DOMAIN,cdn.misakaf.org 
 DOMAIN,push-kr.misakaf.org
+IP-CIDR,102.223.180.108/32
