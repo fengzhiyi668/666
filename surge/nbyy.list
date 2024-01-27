@@ -31,3 +31,32 @@ DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,911ysw.top
+# > 配套功能
+DOMAIN-SUFFIX,themoviedb.org 
+# 元數據匹配服務
+DOMAIN-SUFFIX,thetvdb.com 
+# 分集數據匹配服務
+DOMAIN-SUFFIX,tmdb.org 
+# 元數據圖片
+DOMAIN-SUFFIX,discord.com 
+# 自動反饋錯誤
+DOMAIN-SUFFIX,api.beijinxuetang.com 
+# IP 地址取得服務
+
+# > 頻道
+# > 歐樂影院 地址（Menu-設置）查看，需要翻牆
+DOMAIN-SUFFIX,olemovienews.com 
+# 歐樂部分影片的播放域名，提示 SSL 錯誤既需要翻牆
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,olelive.com
+
+
+# > 海外看 # 感謝各位群組成員反饋
+DOMAIN-SUFFIX,haiwaikan.com 
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,cdn.venus7202.com
+DOMAIN-SUFFIX,cdn.ceres9350.com
+DOMAIN-SUFFIX,cdn.efhie.com
+
+DOMAIN,notion-api.splitbee.io
+DOMAIN,syncnext-api.5mlstudio.com
