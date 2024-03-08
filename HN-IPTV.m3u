@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/HFib76ySpbU
-#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻",无线新闻台
+#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻",無線新聞台
 http://www.hkyuancheng.lol:5679/tvb.php?id=0&hq
-#EXTINF:-1,tvg-id="无线财经台" tvg-name="无线财经台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" group-title="新闻",无线财经台
+#EXTINF:-1,tvg-id="無線財經·體育·資訊台" tvg-name="無線財經·體育·資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" group-title="新闻",無線財經·體育·資訊台
 http://www.hkyuancheng.lol:5679/tvb.php?id=2&hq
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新闻",中天新闻
 http://www.hkyuancheng.lol:3555/youtube/oIgbl7t0S_w
