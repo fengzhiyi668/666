@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="",翡翠台 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
+https://mytvsuper.livednow.com/JUHD
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/HFib76ySpbU
 #EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻",無線新聞台
