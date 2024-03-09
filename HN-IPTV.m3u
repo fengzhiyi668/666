@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TVG" tvg-logo="",黄金翡翠台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8fe3db1a24969694ae3447f26473eb9f&key=5cce95833568b9e322f17c61387b306f
-https://mytvsuper.livednow.com/JUHD/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=ca96581959c3091b077db79f103d7435&ext_start_limit=1709995660&int_start_limit=1709995660&ts=1709995660&c=850464580
+https://mytvsuper.livednow.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=ca96581959c3091b077db79f103d7435&ext_start_limit=1709995660&int_start_limit=1709995660&ts=1709995660&c=850464580
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/HFib76ySpbU
 #EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻",無線新聞台
