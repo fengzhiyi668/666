@@ -17,7 +17,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",J2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=d120cd38cdf6349166960b899a9503a4&ext_start_limit=1710169852&int_start_limit=1710169852&ts=1710169852&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=41fda539d2fac5229d026f160432b8b2&ext_start_limit=1710174785&int_start_limit=1710174785&ts=1710174785&c=850464580
 
 #EXTINF:-1 tvg-id="TVG" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png",黄金翡翠台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
