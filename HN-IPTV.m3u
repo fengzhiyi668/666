@@ -44,7 +44,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_A_hevc/__op/cenc_m/
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6fa0e47750b5e2fb6adf9b9a0ac431a3&key=a256220e6c2beaa82f4ca5fba4ec1f95
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=30c4459e51492bc48f3bdb995c735e64&ext_start_limit=1710171037&int_start_limit=1710171037&ts=1710171037&c=850464580
 
-#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB9.png",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7bca0771ba9205edb5d467ce2fdf0162&key=eb19c7e3cea34dc90645e33f983b15ab
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=e2c992cc8103222726614cd4f05065ce&ext_start_limit=1710171060&int_start_limit=1710171060&ts=1710171060&c=850464580
