@@ -12,7 +12,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc
 #EXTINF:-1 tvg-id="P" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png",明珠台
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e04facdd91354deee318c674993b74c1&key=8f97a629de680af93a652c3102b65898
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=a2d41b7fbfd5ff0f62d9d142934b914f&ext_start_limit=1710177246&int_start_limit=1710177246&ts=1710177246&c=850464580
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=b6a6c49fe7f54fc2555749d82d154f7d&ext_start_limit=1710296943&int_start_limit=1710296943&ts=1710296943&c=850464580
 
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",J2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
