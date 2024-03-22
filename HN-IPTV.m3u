@@ -96,11 +96,11 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT1_hevc/__op/cenc
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="新闻",凤凰卫视资讯台
 ##http://www.hkyuancheng.lol:3555/youtube/HFib76ySpbU
-http://183.1.248.117:8081/hls/36/index.m3u8
+http://183.1.251.35:8081/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="新闻",凤凰卫视中文台
-http://183.1.248.117:8081/hls/37/index.m3u8
+http://183.1.251.35:8081/hls/37/index.m3u8
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="新闻",凤凰卫视香港台
-http://183.1.248.117:8081/hls/38/index.m3u8
+http://183.1.251.35:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="新闻",無線新聞台
 http://www.hkyuancheng.lol:5679/tvb.php?id=0&hq
 #EXTINF:-1,tvg-id="無線財經·體育·資訊台" tvg-name="無線財經·體育·資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" group-title="新闻",無線財經·體育·資訊台
