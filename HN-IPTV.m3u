@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=eea5d727b29a5ab77cb4a8592ef49e54&ext_start_limit=1711894951&int_start_limit=1711894951&ts=1711894951&c=321393192
+https://raw.githubusercontent.com/fengzhiyi668/666/master/J.m3u8
 
 
 
