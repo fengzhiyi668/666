@@ -182,7 +182,7 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.126:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.67:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.201:5140
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/湖南卫视.PNG" group-title="卫视",湖南卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.114:5140
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://www.hkyuancheng.lol:7088/udp/239.253.64.202:5140
