@@ -142,7 +142,7 @@ http://www.hkyuancheng.lol:7088/udp/239.253.64.122:5140
 http://www.hkyuancheng.lol:7088/udp/239.253.64.121:5140
 #EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/local/Hainan1.png" group-title="地方台",海南经济
 http://www.hkyuancheng.lol:7088/udp/239.253.64.119:5140
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV4.png" group-title="央视",CCTV1
 http://www.hkyuancheng.lol:7088/udp/239.253.64.120:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://www.hkyuancheng.lol:7088/udp/239.253.64.195:5140
