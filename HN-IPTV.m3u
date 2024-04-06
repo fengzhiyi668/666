@@ -1,10 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台
+#EXTINF:-1 tvg-id="J" tvg-logo="",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LS/XsWYbHijeOCaIcrSEgA", "kid":"CVi5xldiLEZaYgXrIlK47Q" } ], "type":"temporary" }
-https://mytvsuper.livednow.com/JUHD
-
+https://mytvsuper.livednow.com/J
 
 
 
