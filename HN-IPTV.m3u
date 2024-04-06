@@ -112,13 +112,13 @@ https://mytvsuper.livednow.com/CDR3
 #EXTINF:-1 tvg-id="TVO" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xs5Y75zOMGOODC6fxFptvQ", "kid":"rNk6X2Ze/U/q2yb17Uj9lg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/TVO
 
 #EXTINF:-1 tvg-id="KID" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xs5Y75zOMGOODC6fxFptvQ", "kid":"rNk6X2Ze/U/q2yb17Uj9lg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tzAAatHaSLQSzrH542qDPQ", "kid":"QlJ8qQrVJbourJl5yT07yg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/KID
 
 #EXTINF:-1 tvg-id="ZOO" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",ZooMoo
