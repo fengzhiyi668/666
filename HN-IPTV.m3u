@@ -94,19 +94,19 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_
 #EXTINF:-1 tvg-id="CTVC" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZgV4uJZv6AEq1RuarnpdeA", "kid":"bDCEkLMZi2KpiJFyU2U2kg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CTVC
 
 #EXTINF:-1 tvg-id="CTVS" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fQDsnNT1TVuvlMA+3Iz+JQ", "kid":"31wOYX3/w+PETLcz3MszwA" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CTVS
 
 #EXTINF:-1 tvg-id="CDR3" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB13.png",華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jNRgRYsL3sylwSeRtkCSeA", "kid":"uq4ie1/AbiVFho1KHJztFA" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CDR3
 
 #EXTINF:-1 tvg-id="TVO" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",黃金華劇台
@@ -118,116 +118,119 @@ https://mytvsuper.livednow.com/TVO
 #EXTINF:-1 tvg-id="KID" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xs5Y75zOMGOODC6fxFptvQ", "kid":"rNk6X2Ze/U/q2yb17Uj9lg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/KID
 
 #EXTINF:-1 tvg-id="ZOO" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JgPmRsqv4ivE6KF7Wi3VWw", "kid":"nDAutQvvWpWJ2Xy5CYKwXg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/ZOO
 
 #EXTINF:-1 tvg-id="CNIKO" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Nickelodeon.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5HabV6Zujpc31thvMXYAwA", "kid":"DmlDApDtewCvTbeEGdytiw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CNIKO
 
 #EXTINF:-1 tvg-id="CNIJR" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Nickjr.png",Nick Jr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MIa81JqQlgaoaGhYwFx+Mw", "kid":"nxOF0qEqZ7Vyudlo64UDNw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CNIJR
 
 #EXTINF:-1 tvg-id="CCLM" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB12.png",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dcCJe0z1zhVN2uhu3bec0w", "kid":"W5Daf9LwGL+Fp1ckEHVibw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CCLM
 
 #EXTINF:-1 tvg-id="CMAM" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/meiyady.png",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7Lu0o/+iIArmkFjiDnHpGw", "kid":"xdbyr71rJ2MSsEcaZTgo4Q" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CMAM
 
 #EXTINF:-1 tvg-id="CTHR" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/thrill.png",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"SxlsK/JLN+gqgQMSRt5u/g", "kid":"siNVNjqysJpt71S+DIm58g" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CTHR
 
 #EXTINF:-1 tvg-id="CCCM" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ccm.png",天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/SbIQXSBUSm24nAV3uYAg", "kid":"YntsoVCIeRK+xHrkqbhSaQ" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CCCM
 
 #EXTINF:-1 tvg-id="CRTX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RhoCsusSMsbBALlb0L9A+A", "kid":"NY6srR8G6ON1ST2r7pbYZQ" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CRTX
 
 #EXTINF:-1 tvg-id="CKIX" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/KixTV.png",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8zVeWjByLmMQMbhRZCwn8Q", "kid":"O0pExe8yF8VaNXrZdtMosg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CKIX
 
 #EXTINF:-1 tvg-id="LNH" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ln-logo_peacock_4k.png",Love Nature HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uucRXaBxlSY+UK5fyLvk8w", "kid":"A/sPQ5+UL1DQa/I6URv0+A" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/LNH
 
 #EXTINF:-1 tvg-id="LN4" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/ln-logo_peacock_4k.png",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"s7L8vldqY887u5Ql2j3kzw", "kid":"A3xkTLkhN6xcjWU+lS5Mjw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/LN4
 
 #EXTINF:-1 tvg-id="SMS" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hpIuWZN4hIjh7KhXwA1Pqw", "kid":"qPOBwqMRTMbFX1C2/wx48w" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/SMS
 
 #EXTINF:-1 tvg-id="CRTE" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",ROCK綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZpQljAI9c0kqEKy4YLxhYQ", "kid":"AC0DRzG2rJOOp7qFvD3HWQ" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CRTE
 
 #EXTINF:-1 tvg-id="CAXN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/AXNTV.png",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bzgt41eisMzqvoLgs3y43g", "kid":"IL6g4Urw09y2PUEm6LUBcg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CAXN
 
 #EXTINF:-1 tvg-id="GEM" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",GEM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff464c783f3a30b3cacab585a3ed42f:2325cbea6cd3ebe9c09d733426bfde7c
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IyXL6mzT6+nAnXM0Jr/efA", "kid":"X/Rkx4Pzows8rKtYWj7ULw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/GEM
 
 #EXTINF:-1 tvg-id="CANI" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Animax.png",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n+wm/0xndKi96IHlyw/oLg", "kid":"saBz29gnKwyZlA22JM6NdA" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CANI
 
 #EXTINF:-1 tvg-id="CJTV" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVNChannel.png",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2Oh54Qipb95lN8G2ecNptQ", "kid":"rcq56OVkT/NfBOQDXMatOw" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CJTV
 
 #EXTINF:-1 tvg-id="CTS1" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tnL4lXCmMKux0qu1Aw5jAw", "kid":"rXsGZY6KNqBt72s1UL3jXA" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CTS1
+
+
+
 
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png" group-title="新闻",凤凰卫视资讯台
 http://www.hkyuancheng.lol:3555/youtube/HFib76ySpbU
