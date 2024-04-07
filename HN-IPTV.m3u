@@ -77,7 +77,7 @@ https://mytvsuper.livednow.com/PHK
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZgV4uJZv6AEq1RuarnpdeA", "kid":"bDCEkLMZi2KpiJFyU2U2kg" } ], "type":"temporary" }
 https://mytvsuper.livednow.com/CTVC
 
-#EXTINF:-1 tvg-id="CTVS" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",亞洲劇台
+#EXTINF:-1 tvg-id="CTVS" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/yzjt.png",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fQDsnNT1TVuvlMA+3Iz+JQ", "kid":"31wOYX3/w+PETLcz3MszwA" } ], "type":"temporary" }
