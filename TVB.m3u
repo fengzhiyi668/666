@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="J" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LS/XsWYbHijeOCaIcrSEgA", "kid":"CVi5xldiLEZaYgXrIlK47Q" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/J
+
+#EXTINF:-1 tvg-id="JUHD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/BRncamwlvxMtX/+dphhvg", "kid":"LARfWtsm05HMQc0B8AQW+g" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/JUHD
+
+#EXTINF:-1 tvg-id="P" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB2.png",明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"j5emKd5oCvk6ZSwxArZYmA", "kid":"4E+s3ZE1Te7jGMZ0mTt0wQ" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/P
+
+#EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB3.png",J2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZ2OlX0uRdgYmlb+hmWqqg", "kid":"VmA7Zfodc4O27w5zua5p+g" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/B
+
+#EXTINF:-1 tvg-id="TVG" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",黄金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XM6VgzVoueMi8XxhOHswbw", "kid":"j+PbGiSWlpSuNEfyZHPrnw" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/TVG
+
+#EXTINF:-1 tvg-id="CWIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB14.png",Super Free
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FfUVRYzbUQdFL5Q6ERy+iQ", "kid":"Bze3XuiQbAC7e7j2ZtpyoA" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/CWIN
+
+#EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB4.png",無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UVRtHyrwVH8OlhmVtgoyoQ", "kid":"kKC9Adn2y7OYOc2baPwmvA" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/C
+
+#EXTINF:-1 tvg-id="A" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB5.png",無綫財經 體育 資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bpbqZvUbK5wWxdbFszFKhg", "kid":"kdtyiigG0KC7udkuYI9UmA" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/A
+
+#EXTINF:-1 tvg-id="CTVE" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB9.png",娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"olYiDmwr6qgvTKX7pOwflQ", "kid":"b6Dkd1C14vtq35uaCsQxow" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/CTVE
+
+#EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix1.png",鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6xnH486jTckGReM/mDsVqw", "kid":"e8oHcbqSBe211GfOL98BYg" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/PCC
+
+#EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix2.png",凤凰卫视资讯台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7NyAZaRih7+1jp92Xk7sKw", "kid":"g/fTE638CluXi576BCHOJQ" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/PIN
+
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix3.png",鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }
+https://123.yifeng293.workers.dev/PHK
