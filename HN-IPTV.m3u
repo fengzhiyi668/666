@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LS/XsWYbHijeOCaIcrSEgA", "kid":"CVi5xldiLEZaYgXrIlK47Q" } ], "type":"temporary" }
-https://123.yifeng293.workers.dev/J
+https://mytvsuper.livednow.com/J
 
 #EXTINF:-1 tvg-id="JUHD" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/TVB1.png",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
