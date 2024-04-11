@@ -70,3 +70,6 @@ https://123.yifeng293.workers.dev/PIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }
 https://123.yifeng293.workers.dev/PHK
+
+#EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/fengzhiyi668/666/master/Logo/gang-ao/Phoenix3.png",鳳凰衛視香港台
+http://proxy.dfkj.live/alitv.php?u=min&id=12
