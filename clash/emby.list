@@ -12,3 +12,6 @@ DOMAIN,stream2.misakaf.org
 DOMAIN,stream3.misakaf.org
 DOMAIN,stream4.misakaf.org
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,emby.wtf
+
+
