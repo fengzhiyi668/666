@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,onevision.com.tw
+IP-CIDR,13.112.0.0/14,no-resolve
+DOMAIN-SUFFIX,livednow.com,Proxy
+DOMAIN-SUFFIX,ofiii.com
