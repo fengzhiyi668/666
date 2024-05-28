@@ -533,7 +533,7 @@ DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telesco.pe
 # > Facebook
-DOMAIN-KEYWORD,.facebook.
+DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,facebookmail.com
 # > Others
 DOMAIN-SUFFIX,noxinfluencer.com
@@ -595,6 +595,11 @@ DOMAIN-SUFFIX,dest2k.tk
 DOMAIN-SUFFIX,hjb.yifeng293.workers.dev
 DOMAIN-SUFFIX,pixman.io
 DOMAIN-SUFFIX,epg.pw
+DOMAIN-KEYWORD,irancell
+DOMAIN-SUFFIX,appcenter.ms
+
+
+
 
 #Podcast
 DOMAIN-SUFFIX,megaphone.fm
