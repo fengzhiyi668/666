@@ -597,6 +597,7 @@ DOMAIN-SUFFIX,pixman.io
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-KEYWORD,irancell
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-KEYWORD,docker
 
 
 
@@ -607,3 +608,5 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,chrt.fm
 DOMAIN-SUFFIX,xmcdn.com
+
+
