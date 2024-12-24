@@ -20,4 +20,5 @@ DOMAIN,web.nebula-media.org
 DOMAIN-KEYWORD,cavps
 DOMAIN-KEYWORD,tanhuatv
 DOMAIN-KEYWORD,sfcj
+IP-CIDR,141.11.218.151/32,no-resolve
 
