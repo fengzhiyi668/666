@@ -23,11 +23,11 @@ DOMAIN-SUFFIX,dandanplay.net
 #鹅服
 IP-CIDR,141.11.218.151/32,no-resolve
 DOMAIN-KEYWORD,cavps
-IP-CIDR,50.114.55.29,no-resolve
+IP-CIDR,50.114.55.29/32,no-resolve
 DOMAIN-KEYWORD,567996
-IP-CIDR,38.150.0.75,no-resolve
+IP-CIDR,38.150.0.75/32,no-resolve
 DOMAIN-KEYWORD,pppp
-IP-CIDR,141.11.218.151,no-resolve
+IP-CIDR,141.11.218.151/32,no-resolve
 
 
 
