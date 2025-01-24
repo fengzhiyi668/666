@@ -19,7 +19,7 @@ DOMAIN-KEYWORD,nebula
 DOMAIN,web.nebula-media.org
 DOMAIN-KEYWORD,tanhuatv
 DOMAIN-KEYWORD,sfcj
-DOMAIN-SUFFIX,dandanplay.net
+
 #鹅服
 IP-CIDR,141.11.218.151/32,no-resolve
 DOMAIN-KEYWORD,cavps
