@@ -2,15 +2,7 @@
 USER-AGENT,emby*
 DOMAIN,emby.flowercloud.yt
 DOMAIN,cf.jmsooo.com
-##DOMAIN-SUFFIX,misakaf.org
-DOMAIN,emby.misakaf.org
-DOMAIN,cdn.misakaf.org 
-DOMAIN,push-kr.misakaf.org
-IP-CIDR,102.223.180.108/32
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,stream4.misakaf.org
+
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,jmsuper.com
@@ -42,6 +34,7 @@ DOMAIN-KEYWORD,mobaiemby
 #月饼
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,637567.xyz
+DOMAIN-SUFFIX,mobai.sbs
 #叶子
 DOMAIN-KEYWORD,yezi
 #1111垃圾服
