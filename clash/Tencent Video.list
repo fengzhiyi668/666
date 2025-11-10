@@ -31,8 +31,8 @@ DOMAIN-SUFFIX,net.tw
 DOMAIN-SUFFIX,yfp2p.net
 DOMAIN-SUFFIX,dekeitv.com
 DOMAIN-SUFFIX,rrmj.plus
-DOMAIN-SUFFIX,caiji.cyou
-DOMAIN,api.rrmj.plus
+DOMAIN-KEYWORD,caiji
+DOMAIN-KEYWORD,rrmj
 
 
 
