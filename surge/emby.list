@@ -49,12 +49,9 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
 #入机服
 DOMAIN-KEYWORD,rj
-#比比服
-DOMAIN-SUFFIX,beebi.org
 
-DOMAIN-KEYWORD,zoxfree
 
 DOMAIN-KEYWORD,kongcheng
-
-
+#予初
+DOMAIN-KEYWORD,yusen
 
