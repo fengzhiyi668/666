@@ -453,10 +453,10 @@ DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,radio.itunes.apple.com // Apple Music Radio
 # > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
+#DOMAIN,apps.apple.com
+#DOMAIN,books.apple.com
+#DOMAIN,itunes.apple.com
+#DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple.news
