@@ -16,6 +16,7 @@ DOMAIN,cdn6.cc.cd
 DOMAIN-SUFFIX,hidns.vip
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,qd.je
+IP-CIDR,58.99.33.0/24
 
 
 
